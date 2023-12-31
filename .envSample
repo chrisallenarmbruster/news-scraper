@@ -1,0 +1,6 @@
+# Rename this file to .env and fill in the values
+# Secrets for smtp server with gmail
+user_account = "name@email.com"
+user_password = "emailPassword"
+smtp_server = "smtp.gmail.com"
+smtp_port = 587
