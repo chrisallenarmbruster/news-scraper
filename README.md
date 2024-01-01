@@ -93,7 +93,7 @@ Follow the instructions in the terminal to select a news topic and consume the i
 
 ## Engineers
 
-- [Chris Armbruster](https://github.com/chrisallenarmbruster)
+### [🧑 Chris Armbruster](https://github.com/chrisallenarmbruster)
 
 <br>
 
